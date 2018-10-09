@@ -1,7 +1,7 @@
 // Auto-generated. Do not edit.
 
 
-    declare enum Pins {
+    declare const enum Pins {
     P0 = 3,
     P1 = 2,
     P2 = 1,
@@ -45,7 +45,7 @@ declare namespace DS1820pxt {
      * @endcode
      */
 
-    declare enum devices {
+    declare const enum devices {
     this_device = 0,
     }
 
